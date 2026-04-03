@@ -1,0 +1,143 @@
+[
+  {
+    "question": "What should a project manager do first?",
+    "options": ["Execute", "Plan", "Identify stakeholders", "Close"],
+    "answer": 2,
+    "domain": "People",
+    "explanation": "Identifying stakeholders is essential to define expectations early."
+  },
+  {
+    "question": "What is the primary role of a project manager?",
+    "options": ["Coding", "Managing stakeholders", "Testing", "Selling"],
+    "answer": 1,
+    "domain": "People",
+    "explanation": "Managing stakeholders ensures alignment and project success."
+  },
+  {
+    "question": "What does Agile emphasize?",
+    "options": ["Rigid planning", "Flexibility", "Contracts", "Documentation"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Agile focuses on adaptability and responding to change."
+  },
+  {
+    "question": "What is a sprint in Agile?",
+    "options": ["Long project", "Short iteration", "Meeting", "Budget"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "A sprint is a time-boxed iteration in Agile."
+  },
+  {
+    "question": "What is risk management?",
+    "options": ["Ignoring risks", "Tracking risks", "Hiring", "Budgeting"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Risk management identifies and mitigates uncertainties."
+  },
+  {
+    "question": "What is stakeholder engagement?",
+    "options": ["Ignoring stakeholders", "Managing expectations", "Budgeting", "Testing"],
+    "answer": 1,
+    "domain": "People",
+    "explanation": "Engaging stakeholders ensures support and alignment."
+  },
+  {
+    "question": "What is the purpose of a project charter?",
+    "options": ["Budgeting", "Authorizing project", "Testing", "Closing"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "The charter formally authorizes the project."
+  },
+  {
+    "question": "What is scope creep?",
+    "options": ["Scope reduction", "Uncontrolled changes", "Planning", "Closure"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Scope creep occurs when changes are not controlled."
+  },
+  {
+    "question": "What is team motivation?",
+    "options": ["Ignoring team", "Encouraging team", "Punishing team", "Hiring"],
+    "answer": 1,
+    "domain": "People",
+    "explanation": "Motivation improves productivity and morale."
+  },
+  {
+    "question": "What is communication plan?",
+    "options": ["Budget plan", "Stakeholder communication", "Risk log", "Scope doc"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Defines how information flows in the project."
+  },
+
+  {
+    "question": "What is Scrum Master role?",
+    "options": ["Manager", "Facilitator", "Tester", "Client"],
+    "answer": 1,
+    "domain": "People",
+    "explanation": "Scrum Master facilitates Agile process."
+  },
+  {
+    "question": "What is backlog?",
+    "options": ["Completed tasks", "Pending work", "Budget", "Team"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Backlog contains prioritized tasks."
+  },
+  {
+    "question": "What is critical path?",
+    "options": ["Shortest path", "Longest path", "Budget", "Scope"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Critical path determines project duration."
+  },
+  {
+    "question": "What is change control?",
+    "options": ["Ignore changes", "Manage changes", "Reject changes", "Close project"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Ensures controlled changes."
+  },
+  {
+    "question": "What is conflict resolution?",
+    "options": ["Ignore conflict", "Resolve conflict", "Create conflict", "Avoid team"],
+    "answer": 1,
+    "domain": "People",
+    "explanation": "Conflict resolution improves team dynamics."
+  },
+  {
+    "question": "What is stakeholder analysis?",
+    "options": ["Ignore stakeholders", "Identify stakeholders", "Budgeting", "Planning"],
+    "answer": 1,
+    "domain": "People",
+    "explanation": "Helps manage expectations."
+  },
+  {
+    "question": "What is WBS?",
+    "options": ["Schedule", "Work breakdown", "Budget", "Risk"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Breaks project into smaller components."
+  },
+  {
+    "question": "What is quality assurance?",
+    "options": ["Testing only", "Process improvement", "Budgeting", "Planning"],
+    "answer": 1,
+    "domain": "Process",
+    "explanation": "Ensures processes meet standards."
+  },
+  {
+    "question": "What is business value?",
+    "options": ["Cost", "Benefit", "Time", "Scope"],
+    "answer": 1,
+    "domain": "Business",
+    "explanation": "Focuses on delivering value."
+  },
+  {
+    "question": "What is ROI?",
+    "options": ["Return on investment", "Risk", "Scope", "Time"],
+    "answer": 0,
+    "domain": "Business",
+    "explanation": "Measures profitability."
+  }
+]
